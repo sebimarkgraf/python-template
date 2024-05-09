@@ -17,4 +17,6 @@ distribution = false
 [tool.pdm.dev-dependencies]
 dev = [
     "pytest-cookies>=0.7.0",
+    "pre-commit>=3.7.0",
+    "ruff>=0.4.3",
 ]
