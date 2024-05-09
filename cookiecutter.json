@@ -1,4 +1,7 @@
 {
     "package_name": "mypypackag",
-    "repo_name": "myproject"
+    "repo_name": "myproject",
+    "description": "This is a test package",
+    "author": "John Doe",
+    "author_email": "john.doe@test.com"
 }
