@@ -1,0 +1,15 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Sebastian Moßburger", email = "sebastian.markgraf@t-online.de"},
+]
+dependencies = []
+requires-python = ">3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
